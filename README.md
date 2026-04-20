@@ -1,3 +1,5 @@
+<video src="https://drive.google.com/file/d/1EW9t6ijyW4eA6a2Qo1eifB83tO74hUPD/view?usp=sharing" width="320" height="240" controls></video>
+
 # LLM News Intelligence Pipeline
 
 A real-time data pipeline that ingests live news, enriches it with Claude AI, and displays results on a live dashboard.
