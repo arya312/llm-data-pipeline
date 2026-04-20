@@ -1,4 +1,6 @@
-<video src="https://drive.google.com/file/d/1EW9t6ijyW4eA6a2Qo1eifB83tO74hUPD/view?usp=sharing" width="320" height="240" controls></video>
+## Demo
+
+[▶ Watch demo video](https://drive.google.com/file/d/1EW9t6ijyW4eA6a2Qo1eifB83tO74hUPD/view?usp=sharing)
 
 # LLM News Intelligence Pipeline
 
