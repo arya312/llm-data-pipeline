@@ -142,4 +142,4 @@ Entities: {'companies': [], 'people': [], 'places': ['Beijing', 'China']}
 
 ---
 
-Built by [arya312](https://github.com/arya312) — looking for SDE-II / ML Engineer roles in London and Europe.
+Built by [arya312](https://github.com/arya312)
